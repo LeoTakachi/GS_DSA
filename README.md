@@ -1,5 +1,6 @@
 # GS_DSA - MONITORAMENTO DE MISSÃO ESPACIAL
-Projeto acadêmico (FIAP); Realizado por dois estudantes de Ciência da Computação (1° semestre).
+Projeto acadêmico (FIAP) aplicado na displina de Data Structures and Algorithms pelo professor Alváro Alexandre Reznde Gonçalves; 
+Realizado por dois estudantes de Ciência da Computação (1° semestre):
 Giovane Salazar Fioriavante  RM: 570396
 Leonardo Basile Takachi  RM: 569066
 Neste projeto, utilizamos a linguagem Python para criar um sistema interativo dentro do terminal para monitorar dados operacionais de uma missão espacial experimental. Dentro dessas interações, realizamos o uso de funções com linhas de código afim de realizar várias tarefas relacionadas com o tema do projeto.
