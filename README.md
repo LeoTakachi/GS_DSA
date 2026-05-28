@@ -23,4 +23,5 @@ O menu_principal utiliza um laço while True para que o sistema permaneça opera
 
 
 
+* FLUXOGRAMA:
 <img width="1276" height="525" alt="image" src="https://github.com/user-attachments/assets/c559e911-0af1-4163-99e7-3e715d9ceaf2" />
