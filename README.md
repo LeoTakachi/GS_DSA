@@ -21,9 +21,8 @@ Falha na comunicação: Comunicação = 0.
 4. Interface e Repetição:
 O menu_principal utiliza um laço while True para que o sistema permaneça operacional até o usuário escolha encerrar, permitindo uma simulação contínua.
 
-
-
-
+* Vídeo de demonstração prática do sistema: https://youtu.be/rwCEyo0ZeRM
 
 * FLUXOGRAMA:
 <img width="1276" height="525" alt="image" src="https://github.com/user-attachments/assets/c559e911-0af1-4163-99e7-3e715d9ceaf2" />
+
